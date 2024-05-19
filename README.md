@@ -11,7 +11,8 @@ Islands of Hex is a strategic two-player game where each player aims to control 
   - White: Top to Bottom
 - **Islands**: An island is a connected group of same-colored game pieces surrounded by empty tiles or tiles of the opposite color. The player with the most islands at the end of the game wins.
 
-In the example below, there are 2 white islands and 6 black islands. White has formed a path from the top to the bottom, thus winning the game.
+In the example below, there are 2 white islands and 6 black islands. White has formed a path from the top to the bottom,thus winning the game.
+
 ![example game board](a_res/example_board.png)
 
 

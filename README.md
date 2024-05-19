@@ -1,4 +1,4 @@
-#Islands Of Hex
+# Islands Of Hex
 
 Islands of Hex is a strategic two-player game where each player aims to control the most islands on a hexagonal game board. One player uses white game pieces, while the other uses black. The game ends when a player creates a continuous chain of game pieces across the board: black from left to right, or white from top to bottom.
 

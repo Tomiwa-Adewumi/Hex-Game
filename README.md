@@ -14,14 +14,7 @@ Islands of Hex is a strategic two-player game where each player aims to control 
 In the example below, there are 2 white islands and 6 black islands. White has formed a path from the top to the bottom, thus winning the game.
 ![example game board](a_res/example_board.png)
 
-### Objective
-*
-Your job is to write the backend for this game. You will be responsible for the following functionality:
 
-- determining if a play into a specific row and column is valid
-- playing a piece into a specific row, column
-- determining the score for white and black
-- determining if the game is over
 
 ## Features
 

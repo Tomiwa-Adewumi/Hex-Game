@@ -28,9 +28,9 @@ The backend logic for this game includes the following functionalities:
 - **Game Over Condition**: Determine if the game has ended
 
 ### Game Modes
+The game can be played between two human players or simulated between two non-intelligent computer players
 
 There are 3 different game play scenarios
-The game can be played between two human players or simulated between two non-intelligent computer players.
 * **Quick Play**: 5x5 board
 * **Traditional Play**: 11x11 board
 * **Big Game**: 25x25 board
